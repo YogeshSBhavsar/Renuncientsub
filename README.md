@@ -1,4 +1,3 @@
-# Renuncientsub
 # 🌐 Secure Static Website + Subdomain Hosting with CI/CD on AWS
 
 This project showcases how to host a secure, high-performance static website and subdomain using **Amazon Web Services (AWS)**, integrated with **GitHub Actions** for continuous deployment.
