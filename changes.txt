@@ -1,0 +1,9 @@
+1. logo svg
+2. Hero section button -> should goes to contact page
+3. 2 nd section should be about us
+4. in navbar About us should be at first 
+5. remove technologies 
+6. contact in only phone email and location
+7. Add Footer
+8. data analytics and science add to service page
+9. 
